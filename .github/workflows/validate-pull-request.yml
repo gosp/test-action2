@@ -13,7 +13,7 @@ jobs:
       - name: test token
         run: echo "${{ secrets.GITHUB_TOKEN }}"
       - name: G11n Radar
-        uses: citrix-workspace/g11n-scan@action-dev
+        uses: citrix-workspace/g11n-scan@master
         with:
           repoToken: ${{secrets.GITHUB_TOKEN}}
           skip: 'bundles/coming_soon/,bundles/dip/Citrix/com.sapho.services.zendesk.ZendeskService/'
