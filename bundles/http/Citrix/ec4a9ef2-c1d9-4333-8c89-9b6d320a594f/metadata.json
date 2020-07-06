@@ -1,0 +1,96 @@
+{
+  "type" : "HTTP",
+  "vendor" : "Citrix",
+  "id" : "ec4a9ef2-c1d9-4333-8c89-9b6d320a594f",
+  "title" : "Salesforce HTTP alpha",
+  "description" : "Experimental use only",
+  "iconUrl" : "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/Salesforce.43b28006ce57d083904eaa95297a166d.svg",
+  "masVersion" : "1.14.0",
+  "categories" : [ "INTERNAL_DEVELOPMENT" ],
+  "created" : "2020-05-26T15:06:59",
+  "supportsOAuthForActions" : true,
+  "i18nLanguages" : [ "en" ],
+  "apps" : [ {
+    "uuid" : "0b73dcbd-c6f6-4ccb-ac33-d5f36577dd28",
+    "title" : "Create Contract",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "0ef1bdd0-302c-4098-9e3c-d3a63123f877",
+    "title" : "Create Task",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "19e5e7ba-1811-47bf-9d2e-37c6b5febd11",
+    "title" : "Create Contact",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "2057a996-12f5-40d8-b206-84d868283b5f",
+    "title" : "Events",
+    "numberOfEvents" : 1,
+    "action" : true
+  }, {
+    "uuid" : "20c037d2-3d41-4d87-9347-fa8562960585",
+    "title" : "Contacts",
+    "numberOfEvents" : 2,
+    "action" : true
+  }, {
+    "uuid" : "274f4b03-ce5e-47ec-bee4-20c977532939",
+    "title" : "Cases",
+    "numberOfEvents" : 3,
+    "action" : true
+  }, {
+    "uuid" : "2e22df72-7783-475b-9452-8d675a8f94c8",
+    "title" : "Leads",
+    "numberOfEvents" : 2,
+    "action" : true
+  }, {
+    "uuid" : "7ab4321e-0254-4b23-bd9e-c8b71a557847",
+    "title" : "Create Lead",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "86266330-004e-49c6-8284-b2780026f83e",
+    "title" : "Contracts",
+    "numberOfEvents" : 3,
+    "action" : true
+  }, {
+    "uuid" : "909396b3-bc6a-4b09-9d42-40aa9f232665",
+    "title" : "Create Account",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "9ea34e7c-965d-43b2-9b14-6990a78f6c59",
+    "title" : "Create Opportunity",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "a0cead75-d634-407c-b517-6897bc99d01f",
+    "title" : "Opportunities",
+    "numberOfEvents" : 2,
+    "action" : true
+  }, {
+    "uuid" : "ae9303f1-fe2e-4dfe-b868-a0e4bda00652",
+    "title" : "Create Event",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "c3d789b5-2c80-4ed3-b7d3-46feb8ac8958",
+    "title" : "Tasks",
+    "numberOfEvents" : 1,
+    "action" : true
+  }, {
+    "uuid" : "e7409625-4a7b-4c2f-877a-5a8b3906837b",
+    "title" : "Accounts",
+    "numberOfEvents" : 2,
+    "action" : true
+  }, {
+    "uuid" : "f682eda9-c2eb-4a3c-a2dd-70a8c1fcabef",
+    "title" : "Create Case",
+    "numberOfEvents" : 0,
+    "action" : true
+  } ],
+  "vaResolvers" : [ ],
+  "tags" : [ ]
+}
